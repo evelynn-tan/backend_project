@@ -5,4 +5,4 @@ nixpkgs = []
 cmds = ["npm install", "npm run build"]
 
 [start]
-cmd = "npm run dev"
+cmd = "npm run preview"
