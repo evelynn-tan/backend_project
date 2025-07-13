@@ -19,8 +19,7 @@ return [
 
     'allowed_methods' => ['*'], //semua jenis permintaan diijinkan (get,post,put,delete)
 
-    'allowed_origins' => ['http://localhost:5173','https://frontend-project-d4vs.vercel.app'], //laravel cuma bisa ngambil frontend dari port 5173 
-
+    'allowed_origins' => ['http://localhost:5173','https://frontend-project-3-one.vercel.app'], //laravel cuma bisa ngambil frontend dari port 5173 
 
     'allowed_origins_patterns' => [],
 
